@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+#pokemon{
+    margin-left: 100px;
+    margin-right:0px;
+    float:left;
+}
+#text{
+    float:right;
+}
+#b{
+    margin-top: 40px;
+}
+#b1{
+    font-family: cursive;
+}
+#btn{
+    margin-top: 20px;
+    border-radius: 10px;
+    background:yellow;
+    font-size: large;
+    font-family: cursive;
+}
+#btn:hover{
+    margin-top: 20px;
+    border-radius: 10px;
+    background: green;
+    font-size: large;
+    font-family: cursive;
+}
